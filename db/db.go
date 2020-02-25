@@ -1,8 +1,10 @@
 package db
 
 import (
-	"echo-gorm/config"
-	"echo-gorm/model"
+	"github.com/mohammad-hamzei/echo-social/config"
+	//"echo-gorm/config"
+	"github.com/mohammad-hamzei/echo-social/model"
+	//"echo-gorm/model"
 	"fmt"
 
 	"github.com/jinzhu/gorm"

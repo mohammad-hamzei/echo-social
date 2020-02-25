@@ -1,8 +1,8 @@
 package route
 
 import (
-	"echo-gorm/api"
-
+	//"echo-gorm/api"
+	"github.com/mohammad-hamzei/echo-social/api"
 	"github.com/labstack/echo"
 )
 

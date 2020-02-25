@@ -1,8 +1,10 @@
 package api
 
 import (
-	"echo-gorm/db"
-	"echo-gorm/model"
+	"github.com/mohammad-hamzei/echo-social/db"
+	//"echo-gorm/db"
+	"github.com/mohammad-hamzei/echo-social/model"
+	//"echo-gorm/model"
 	"net/http"
 
 	"github.com/labstack/echo"

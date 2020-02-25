@@ -1,8 +1,10 @@
 package main
 
 import (
-	"echo-gorm/db"
-	"echo-gorm/route"
+	"github.com/mohammad-hamzei/echo-social/db"
+	"github.com/mohammad-hamzei/echo-social/route"
+	//"echo-gorm/db"
+	//"echo-gorm/route"
 )
 
 func main() {
